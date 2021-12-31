@@ -10,13 +10,13 @@ A hobby programmer from 15 years old. 😋
 ## Features
 
 * Maintain apps with TDD
-  * Java, JUnit Jupiter, Selenide, TypeScript, mocha, Jasmine, etc.
+  * Java, JUnit Jupiter, TypeScript, Jest, Playwright, Selenide, etc.
 * Customize and optimize Development Workflows
   * GitHub Actions, Jenkins, Travis CI, Ant, Maven, Gradle, npm, yarn, Sphinx, Docker, etc.
   * Develop extensions for Ant, Maven, Gradle, Jenkins, GitHub Probot, and GitHub Action.
 * Static Code Analysis and Bytecode Manipulation
   * Work for [SpotBugs the spiritual successor of FindBugs](https://github.com/spotbugs).
-  * Develop plugins for SpotBugs, Google Errorprone, SonarQube, PMD, etc. Build small tools with ObjectWeb ASM.
+  * Develop plugins for SpotBugs, Google Errorprone, SonarQube, PMD, etc. Also develop small tools with ObjectWeb ASM.
 * Problem Solving, Leadership, Team/Project Management
   * About my business career, visit [latest resumes](https://github.com/KengoTODA/KengoTODA.github.io/tree/master/resume) or contact me at [linkedin](www.linkedin.com/in/kengo-toda-b8772889).
 
