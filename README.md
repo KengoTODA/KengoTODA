@@ -6,6 +6,7 @@ A hobby programmer from 15 years old. 😋
 [![dev.to](https://img.shields.io/badge/dev.to-kengotoda-blueviolet)](https://dev.to/kengotoda/)
 [![speakerdeck](https://img.shields.io/badge/speakerdeck-eller86-brightgreen)](https://speakerdeck.com/eller86)
 [![blog written in Japanese](https://img.shields.io/badge/blog%20(ja)-kengotoda-orange)](https://blog.kengo-toda.jp/)
+[![blog written in Mandarin](https://img.shields.io/badge/blog%20(zh)-kengotoda-red)](https://juejin.cn/user/3791583605970157/posts)
 
 ## Features
 
